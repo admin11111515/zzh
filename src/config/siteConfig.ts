@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "粉色妖精小姐的博客",
 
 	// 站点 URL
-	site_url: "https://elysia.cuteleaf.cn",
+	site_url: "https://elysiazzh.pages.dev",
 
 	// 站点描述
 	description:
