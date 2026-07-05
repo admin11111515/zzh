@@ -7,8 +7,6 @@ description: "让无人传颂的歌谣，再度启唱。为历史尘封的故事
 image: "./images/elsia.jpg"
 ---
 
-![爱莉希雅](./images/elsia.jpg)
-
 ## 始源之歌
 
 让无人传颂的歌谣，再度启唱。
