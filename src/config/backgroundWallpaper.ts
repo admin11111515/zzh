@@ -43,22 +43,31 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 桌面背景图片（支持单张或多张随机）
 		// desktop: "assets/images/DesktopWallpaper/d1.avif",
 		desktop: [
-			"assets/images/DesktopWallpaper/d1.avif",
-			"assets/images/DesktopWallpaper/d2.avif",
-			"assets/images/DesktopWallpaper/d3.avif",
-			"assets/images/DesktopWallpaper/d4.avif",
-			"assets/images/DesktopWallpaper/d5.avif",
-			"assets/images/DesktopWallpaper/d6.avif",
+			"assets/images/DesktopWallpaper/d1.png",
+			"assets/images/DesktopWallpaper/d2.png",
+			"assets/images/DesktopWallpaper/d3.png",
+			"assets/images/DesktopWallpaper/d4.png",
+			"assets/images/DesktopWallpaper/d5.png",
+			"assets/images/DesktopWallpaper/d6.png",
+			"assets/images/DesktopWallpaper/d7.png",
+			"assets/images/DesktopWallpaper/d8.png",
+			"assets/images/DesktopWallpaper/d9.png",
+			"assets/images/DesktopWallpaper/d10.png",
+			"assets/images/DesktopWallpaper/d11.png",
 		],
 		// 移动背景图片（支持单张或多张随机）
 		// mobile: "assets/images/MobileWallpaper/m1.avif",
 		mobile: [
-			"assets/images/MobileWallpaper/m1.avif",
-			"assets/images/MobileWallpaper/m2.avif",
-			"assets/images/MobileWallpaper/m3.avif",
-			"assets/images/MobileWallpaper/m4.avif",
-			"assets/images/MobileWallpaper/m5.avif",
-			"assets/images/MobileWallpaper/m6.avif",
+			"assets/images/MobileWallpaper/p1.png",
+			"assets/images/MobileWallpaper/p2.png",
+			"assets/images/MobileWallpaper/p3.png",
+			"assets/images/MobileWallpaper/p4.png",
+			"assets/images/MobileWallpaper/p5.png",
+			"assets/images/MobileWallpaper/p6.png",
+			"assets/images/MobileWallpaper/p7.png",
+			"assets/images/MobileWallpaper/p8.png",
+			"assets/images/MobileWallpaper/p9.png",
+			"assets/images/MobileWallpaper/p10.png",
 		],
 		// 背景视频播放地址
 		// 支持单个视频路径（字符串）或多个视频循环（数组）
@@ -81,17 +90,17 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否允许用户通过控制面板切换横幅标题显示
 			switchable: true,
 			// 主页横幅主标题
-			title: "Lovely firefly!",
+			title: "Lovely Elysia!",
 			// 主页横幅主标题字体大小
 			titleSize: "3.8rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"「粉色妖精小姐，登场！」",
+				"「无论何时何地，爱莉都会守护你哦~」",
+				"「这个世界，因为有你才美丽」",
+				"「让我们一起创造美好的回忆吧！」",
+				"「逐火之蛾第十三英桀，就是我！」",
+				"「爱是世界上最强大的力量」",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
